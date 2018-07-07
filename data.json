@@ -22,5 +22,23 @@
     "institute":"Assisi E.M school",
     "data":["2014-16","94%"]
     }
+],
+"skills":[
+  {
+    "title":"languages",
+    "content":["c","java","python","c++","c#","php"]
+  },
+  {
+    "title":"Database",
+    "content":["sql","mysql","MongoDB"]
+},
+{
+  "title":"Web technologies",
+  "content":["HTML","CSS","javascript"]
+},
+{
+  "title":"Frameworks",
+  "content":["DJango","codeIgniter"]
+}
 ]
 }
