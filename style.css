@@ -127,6 +127,7 @@ text-align: center;
   box-shadow: 3px 3px 3px #ddd;
   border-radius: 20px;
 }
+}
 @media only screen and  (min-width:1025px) and (max-width:1550px){
 .parent{
   display:flex;
@@ -148,4 +149,5 @@ text-align: center;
   margin:2%;
   box-shadow: 3px 3px 3px #ddd;
   border-radius: 20px;
+}
 }
